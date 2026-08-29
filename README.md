@@ -3,7 +3,7 @@ This is repo for the LinuxBox application. If you are looking for the installer 
 # LinuxBox
 LinuxBox allows you to run your favourite Linux systems on Android with a full desktop experience and a simple setup process, powered by [Termux](https://github.com/termux/termux-app) and [PRoot](https://github.com/proot-me/PRoot), which make this project possible.
 
-<a href='https://play.google.com/store/apps/details?id=com.nextappslab.linuxbox'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="100"/></a>
+<a href='https://play.google.com/store/apps/details?id=exa.free.linuxbox'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="100"/></a>
 
 
 ## How it works
