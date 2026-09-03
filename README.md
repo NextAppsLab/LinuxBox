@@ -14,7 +14,7 @@ The installer script download custom bootstrapped Linux distro , then decompress
 
 ## Desktop Environment
 
-We currently support 5 Desktop Environments, and only some distros are supported.
+We currently support 2 Desktop Environments, and only some distros are supported.
 
 Supported Desktop Environments:
 
