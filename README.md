@@ -1,4 +1,4 @@
-This is repo for the LinuxBox application. If you are looking for the installer scripts and distro bootstrap scripts, please visit [LinuxBox-Resources](https://github.com/NextAppsLab/LinuxBoxResources))
+This is repo for the LinuxBox application. If you are looking for the installer scripts and distro bootstrap scripts, please visit [LinuxBox-Resources](https://github.com/EXALAB/LinuxBoxResources))
 
 # LinuxBox
 LinuxBox allows you to run your favourite Linux systems on Android with a full desktop experience and a simple setup process, powered by [Termux](https://github.com/termux/termux-app) and [PRoot](https://github.com/proot-me/PRoot), which make this project possible.
