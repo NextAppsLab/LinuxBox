@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/setup"
+            android:icon="@drawable/ic_setup"
+            android:title="@string/setup" />
+    </group>
+
+    <item android:title="@string/features">
+        <menu>
+            <item
+                android:id="@+id/box"
+                android:icon="@drawable/ic_box"
+                android:title="@string/boxes" />
+            <item
+                android:id="@+id/uninstall"
+                android:icon="@drawable/ic_uninstall"
+                android:title="@string/uninstall"/>
+        </menu>
+    </item>
+
+    <item android:title="@string/preferences">
+        <menu>
+            <item
+                android:id="@+id/settings"
+                android:icon="@drawable/ic_settings"
+                android:title="@string/settings" />
+        </menu>
+    </item>
+
+    <item android:title="@string/others">
+        <menu>
+            <item
+                android:id="@+id/support"
+                android:icon="@drawable/ic_support"
+                android:title="@string/support" />
+            <item
+                android:id="@+id/report"
+                android:icon="@drawable/ic_report"
+                android:title="@string/report" />
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/ic_about"
+                android:title="@string/about" />
+        </menu>
+    </item>
+
+</menu>

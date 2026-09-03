@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Navigation Drawer Icon Colors -->
+
+    <!-- Setup: tools / configuration -->
+    <!--<color name="icon_setup">#f59e0b</color>-->
+
+    <!-- Boxes: Linux containers / environments -->
+    <!--<color name="icon_boxes">#02a9f4</color>-->
+
+    <!-- Uninstall: destructive action -->
+    <!--<color name="icon_uninstall">#dc2525</color>-->
+
+    <!-- Settings: neutral system option -->
+    <!--<color name="icon_settings">#757575</color>-->
+
+    <!-- About: information -->
+    <!--<color name="icon_about">#38bdf8</color>-->
+
+</resources>
